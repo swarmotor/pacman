@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1422017294 source:e:\程序设计\语言程序\c语言\程序\2015年\pacman实训\pacman codeblocks link\gamewindow.cpp
+	"head.h"
+
+1422056355 e:\程序设计\语言程序\c语言\程序\2015年\pacman实训\pacman codeblocks link\head.h
+	<time.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<windows.h>
+	<graphics.h>
+
+1422017294 source:e:\程序设计\语言程序\c语言\程序\2015年\pacman实训\pacman codeblocks link\informationwindow.cpp
+	"head.h"
+
